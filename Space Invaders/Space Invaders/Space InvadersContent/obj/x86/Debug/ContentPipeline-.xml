@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2015-04-20T14:37:53.3924077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Invader2.png</Source>
+      <Name>Invader2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader2.xnb</Output>
+      <Time>2015-04-20T14:37:53.5016084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Invader3.png</Source>
+      <Name>Invader3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader3.xnb</Output>
+      <Time>2015-04-20T14:37:53.439208+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2015-04-20T14:37:53.5328086+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Invader1.png</Source>
+      <Name>Invader1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader1.xnb</Output>
+      <Time>2015-04-20T14:37:53.4704082+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\exit.png</Source>
+      <Name>Menu\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exit.xnb</Output>
+      <Time>2015-04-21T11:34:50.3084892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\exitPressed.png</Source>
+      <Name>Menu\exitPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exitPressed.xnb</Output>
+      <Time>2015-04-21T11:34:50.3396892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\help.png</Source>
+      <Name>Menu\help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\help.xnb</Output>
+      <Time>2015-04-21T11:34:50.3864892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\helpPressed.png</Source>
+      <Name>Menu\helpPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\helpPressed.xnb</Output>
+      <Time>2015-04-21T11:34:50.4176892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\start.png</Source>
+      <Name>Menu\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\start.xnb</Output>
+      <Time>2015-04-21T11:34:50.4644892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\startPressed.png</Source>
+      <Name>Menu\startPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\startPressed.xnb</Output>
+      <Time>2015-04-21T11:34:50.4956892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\back.png</Source>
+      <Name>Menu\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\back.xnb</Output>
+      <Time>2015-04-21T12:12:56.7322213+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\backPressed.png</Source>
+      <Name>Menu\backPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\backPressed.xnb</Output>
+      <Time>2015-04-21T12:12:56.779021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Font.spritefont</Source>
+      <Name>Menu\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\Font.xnb</Output>
+      <Time>2015-04-21T12:18:21.5625719+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menu.png</Source>
+      <Name>Menu\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menu.xnb</Output>
+      <Time>2015-04-21T12:27:46.3595239+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\paused.png</Source>
+      <Name>Menu\paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\paused.xnb</Output>
+      <Time>2015-04-21T12:27:46.2503246+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\play.png</Source>
+      <Name>Menu\play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\play.xnb</Output>
+      <Time>2015-04-21T12:27:46.2815244+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\playPressed.png</Source>
+      <Name>Menu\playPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\playPressed.xnb</Output>
+      <Time>2015-04-21T12:27:46.3283241+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menuPressed.png</Source>
+      <Name>Menu\menuPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menuPressed.xnb</Output>
+      <Time>2015-04-21T12:27:46.2035249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus.png</Source>
+      <Name>bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bonus.xnb</Output>
+      <Time>2015-04-21T16:42:52.2809443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2015-04-22T17:41:19.1108072+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.wav</Source>
+      <Name>shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2015-04-22T17:41:19.1318093+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space InvadersContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space InvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-22T13:06:47.2490955+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

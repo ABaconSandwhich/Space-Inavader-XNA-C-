@@ -1,0 +1,2 @@
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space InvadersContent\obj\x86\Debug\Space InvadersContent.contentprojResolveAssemblyReference.cache
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space InvadersContent\obj\x86\Debug\Space InvadersContent.contentprojResolveAssemblyReference.cache

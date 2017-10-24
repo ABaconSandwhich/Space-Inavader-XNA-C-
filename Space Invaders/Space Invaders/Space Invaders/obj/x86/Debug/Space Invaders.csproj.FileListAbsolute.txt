@@ -1,0 +1,56 @@
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader1.xnb
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader2.xnb
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader3.xnb
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.exe
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.pdb
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+c:\users\abaconsandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Player.xnb
+C:\Users\ABaconSandwhich\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bullet.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Player.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader2.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader3.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bullet.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Invader1.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.exe
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.pdb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exit.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exitPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\help.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\helpPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\start.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\startPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\back.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\backPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\Font.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menu.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\paused.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\play.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\playPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menuPressed.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bonus.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\explosion.xnb
+Z:\Software Dev\C# Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\shoot.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exit.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\exitPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\help.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\helpPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\start.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\startPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\back.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\backPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menu.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\menuPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\paused.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\play.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\playPressed.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\bonus.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Menu\Font.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\explosion.xnb
+C:\Users\ABaconSandwhich\Documents\Visual Studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\shoot.xnb
